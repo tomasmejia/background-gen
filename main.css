@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Sans|Montserrat');
+
+body {
+    font: 18px "Montserrat", sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+    top: 15%;
+    background: linear-gradient(to right, red, yellow);
+}
+
+h1 {
+    font: 3.5em "IBM Plex Sans", sans-serif;
+    text-shadow: black 1px 1px 1px;
+    color: rgba(0, 0, 0, .8);
+    letter-spacing: .2em;
+    width: 100%;
+}
+
+h3 {
+    font-size: .5em;
+    letter-spacing: .1em;
+}
